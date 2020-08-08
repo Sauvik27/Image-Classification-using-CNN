@@ -1,4 +1,4 @@
-# Object-Classification
+# Image-Classification
 Multiclass classification of images using CNN in TensorFlow2.2.0 and Keras.
 
 * Requirement :
